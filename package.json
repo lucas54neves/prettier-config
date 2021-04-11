@@ -1,0 +1,17 @@
+{
+  "name": "@lucas54neves/prettier-config",
+  "version": "1.0.0",
+  "description": "My Prettier config",
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas54neves/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "Lucas Neves <lucas54neves@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucas54neves/prettier-config/issues"
+  },
+  "homepage": "https://github.com/lucas54neves/prettier-config#readme"
+}
